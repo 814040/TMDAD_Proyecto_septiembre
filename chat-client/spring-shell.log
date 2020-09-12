@@ -1,0 +1,296 @@
+1588775066555:q
+1588775070929:quit
+1588775282989:add 2 3
+1588775313568:quit
+1589363671274:add 2 3
+1589490278474:add 1 3
+1589494499258:quit
+1589834976172:add
+1589834982554:quit
+1589835860062:read-message
+1589835873045:read-message 1
+1589835926474:quit
+1589835949964:message-list
+1589835954706:user-list
+1589835996845:quit
+1589836009515:message-list
+1589836012572:user-list
+1589838009062:message-list
+1589874930014:user-list
+1589875219423:message-list
+1589875253907:user-list
+1589875917011:message-list
+1589875939102:user-list
+1589877747417:message-list
+1589880569935:user-list
+1589881167860:message-list
+1589881208763:user-list
+1589881259312:message-list
+1589881993575:user-list
+1589881996423:message-list
+1589882531136:get-element user iduser
+1589882564541:get-element user username
+1589884698920:connect Mathilde xxxx
+1589884726000:connect Mathilde fd
+1589884734052:connect Mathi hjk
+1589884742284:connect Math
+1589889968710:connect Mathilde xxxx
+1589890266397:connect José xxxx
+1589890289612:connect Mathilde xxxx
+1589890292641:connect José xxxx
+1589890371205:connect Mathilde xxxx
+1589892411511:quit
+1589893337002:connect Mathilde xxxx
+1589893341035:message-list
+1589893418631:quit
+1589893428658:connect Mathilde xxxx
+1589893431760:quit
+1589893441787:message-list
+1589894105449:quit
+1589897057175:m
+1589897060117:message-list
+1589897069506:connect Mathilde xxxx
+1589897076781:message-list
+1589897104841:quit
+1589897212304:connect Mathilde xxxx
+1589897218094:message-list
+1589897247784:connect José xxxx
+1589897255427:message-list
+1589897288039:quit
+1589897702442:connect José xxxx
+1589897705924:message-list
+1589897722105:connect Mathilde xxxx
+1589897725921:message-list
+1589897758245:quit
+1589898090781:connect Mathilde xxxx
+1589898093527:message-list
+1589898099161:connect José xxxx
+1589898101985:message-list
+1589898534214:quit
+1589898750927:connect Mathilde xxxx
+1589898755105:message-list
+1589898813704:quit
+1589898824426:connect Mathilde xxxx
+1589898827022:message-list
+1589898861659:quit
+1589898892826:connect Mathilde xxxx
+1589898896060:message-list
+1589898934571:disconnect
+1589898943745:message-list
+1589899017996:get-element message textmessage
+1589899041680:get-element user password
+1589899268372:quit
+1589970037089:connect Mathilde
+1589970043683:connect Mathilde xxxx
+1589970056698:message-chat
+1589970067085:message-list
+1589970110108:message-chat José
+1589970306202:get-id-by-user José
+1589970317663:get-id-by-user Mathilde
+1589970375969:get-id-by-user José
+1589971253571:chat-list
+1589971262614:connect Mathilde xxxx
+1589971265742:chat-list
+1589971287862:quit
+1589971468135:connect Mathilde xxxx
+1589971471217:chat-list
+1589971513262:message-chat José
+1589971518837:quit
+1589971859649:user-list
+1589971870260:connect Mathilde xxxx
+1589971885227:chat-list
+1589971895092:message-by-chat José
+1589971952013:disconnect
+1589971955872:user-list
+1589971960440:message-by-chat
+1589971967966:message-by-chat José
+1589971989616:connect MAthilde xxxx
+1589971994873:connect Mathilde xxxx
+1589972009467:message-by-chat Mathilde
+1589972703790:user-list
+1589972712403:connect Mathilde xxxx
+1589972717283:chat-list
+1589972731762:message-by-chat Mathilde
+1589972750991:message-by-chat José
+1589972776835:connect José xxxx
+1589972784683:message-by-chat Mathilde
+1589972802727:quit
+1589975240095:user-list
+1589975248362:connect Mathilde xxxx
+1589975315318:connect José xxxx
+1589975322600:chat-list
+1589975332431:chat-list
+1589975343563:message-by-chat José
+1589975375894:message-by-chat Mathilde
+1589975383470:message-by-chat José
+1589975543669:quit
+1589975655987:connect Mathilde
+1589975659921:connect Mathilde xxxx
+1589975673166:message-by-chat José
+1589975689428:quit
+1590136808189:connect Mathilde xxxx
+1590138214874:quit
+1590441960030:connect Mathilde xxxx
+1596096857562:quit
+1596102756751:help
+1596102779666:connect Mathilde xxxx
+1596103273514:quit
+1596103343518:connect Mathilde xxxx
+1596103456497:quit
+1596103472838:connect Mathilde xxxx
+1596103823027:quit
+1596103840301:connect Mathilde xxxx
+1596105680848:quit
+1596105691602:connect Mathilde xxxx
+1596105900722:quit
+1596105943178:connect Mathilde xxxx
+1599508833759:disconnect
+1599508836318:quit
+1599834727570:connect Mathilde xxxx
+1599837400804:quit
+1599837435902:connect Mathilde xxxx
+1599838636724:connect José xxxx
+1599838702810:quit
+1599838750103:connect Mathilde xxxx
+1599838888351:quit
+1599838934751:connect Mathilde xxxx
+1599839471490:disconnect
+1599844815323:quit
+1599844854215:conne t Mathilde xxxx
+1599844864855:connect Mathilde xxxx
+1599844905499:disconnect
+1599844941996:quit
+1599845566995:connect José xxxx
+1599845607737:Connect Mathilde
+1599845616668:connect Mathilde xxxx
+1599845654566:connect José xxxx
+1599845666066:disconnect
+1599845680096:connect José xxxx
+1599845686718:disconnect
+1599845914795:connect Mathilde xxxx
+1599846277590:quit
+1599846922606:connect Mathilde xxxx
+1599848012043:connect MAthilde xxxx
+1599848022711:connect Mathilde xxxx
+1599857529579:quit
+1599857543618:connect José xxxx
+1599859554795:connect Mathilde xxxx
+1599859588470:write-message José Hola!
+1599859601783:quit
+1599859665006:connect José xxxx
+1599859679110:wrrite-message Mathilde hola
+1599859694624:write-message Mathilde hola
+1599859779638:connect Mathilde xxxx
+1599859810499:write-message José hola
+1599859825516:write-message all loadz
+1599862371216:connect Mathilde xxxx
+1599862384887:write-message José hjlkmkl
+1599863056588:connect Mathilde xxxx
+1599863071910:write-message José xxxx
+1599863116453:quit
+1599863203117:connect José xxxx
+1599863217622:write-message Mathilde xxxx
+1599863323218:connect Mathilde xxxx
+1599863369306:write-message José hoj
+1599863432089:connect Mathilde xxxx
+1599863449571:write-message José hjkop
+1599865196333:connect Mathilde xxxx
+1599865216746:write-message José jkl
+1599865775803:connect Mathilde xxxx
+1599867706666:connect José xxxx
+1599867717236:write-message Mathilde sdfgh
+1599867824276:connect Mathilde xxxx
+1599868490440:write-message José erthgf
+1599870241706:connect Mathilde xxxx
+1599872806545:connect athilde xxxx
+1599872818453:connect Mathilde xxxx
+1599872841157:write-message José dfghg
+1599873825491:message-by-chat 6
+1599873845721:message-by-chat 2
+1599873893838:get-chat-list
+1599873903692:chat-list
+1599874126952:help
+1599874370568:connect Mathilde xxxx
+1599874439151:create-chat louis mathilde baudouin lucie
+1599874459254:create-chat louis
+1599876853487:connect SuperUser xxxx
+1599876883859:create-chat-3 Mathilde Francisco José
+1599876904215:create-chat3 Mathilde Francisco José
+1599877107662:connect SuperUser xxxx
+1599877315918:create-chat3 Mathilde José Francisco
+1599877424902:connect SuperUser xxxx
+1599877428630:create-chat3 Mathilde José Francisco
+1599877482135:connect SuperUser xxxx
+1599877510610:create-chat3 Mathilde José Francisco
+1599877587228:connect SuperUser xxxx
+1599877590572:create-chat3 Mathilde José Francisco
+1599877682987:connect SuperUser xxxx
+1599877685861:create-chat3 Mathilde José Francisco
+1599880885954:connect Mathilde xxxx
+1599883731176:connect Francisco xxxx
+1599884005958:connect SuperUser xxxx
+1599884054110:write-message-chat 5 huio
+1599884692968:connect Mathile xxxx
+1599884714469:write-message-chat 5 ghj
+1599884728077:connect Mathilde xxxx
+1599884737620:write-message-chat 5 ghj
+1599884790455:create-chat2 Francisco SuperUser
+1599893083941:connect Mathilde xxxx
+1599893101336:write-message Mathilde hj
+1599893119023:write-message-chat 5 jkl
+1599893158506:message-by-chat 5
+1599893264335:connect Mathilde xxxx
+1599893280105:message-by-chat 5
+1599893366540:connect Mathilde xxxx
+1599893381625:message-by-chat 5
+1599893547493:connect Mathilde xxxx
+1599893560526:message-by-chat 5
+1599893767419:connecct athilde xxxx
+1599893776925:connecct Mathilde xxxx
+1599893786777:connect Mathilde xxxx
+1599893796527:chat-list
+1599893840105:connect SuperUser xxxx
+1599893846329:chat-list
+1599895446028:add-user Gabriel ghjk
+1599895562238:add-user bn hj
+1599895627420:add-user bhjk bhjk
+1599895666958:add-user hji hj
+1599895790300:add-user hjk hjk
+1599895967505:add-user hj hj
+1599896319040:stacktrace
+1599896416595:add-user bhj hujh
+1599896549601:add-user bhj
+1599896559404:add-user bhj hujh
+1599896567593:stacktrace
+1599896632792:add-user hjoi huio
+1599896702650:add-user bhjk ghjuik
+1599896744379:connect Mathilde xxxx
+1599896764963:create-chat José
+1599896792082:create-chat3 José Francsco SuperUser
+1599901328501:connect Mathilde xxxx
+1599901532221:write-message José Hola!
+1599901676209:chat-list
+1599901697945:write-message-chat 5 Hola!
+1599901854807:create-chat2 Francisco José
+1599901994963:connect Mathilde xxxx
+1599902135049:connect SuperUser xxxx
+1599902150613:write-message all fghj
+1599904810469:help
+1599905928482:connect Mathilde xxxx
+1599905933626:disconnect
+1599907716746:chat-list
+1599907724502:connect Mathilde xxxx
+1599907729581:chat-list
+1599908117751:message-by-chat 5
+1599908265409:connect Mathilde xxxx
+1599908271886:message-by-chat 5
+1599908330641:disconnect
+1599908342463:connect SuperUser xxxx
+1599908355227:message-by-chat 5
+1599908951047:help
+1599909064210:create-chat2 Mathilde José
+1599909860476:help
+1599909961647:write-message José Bonjour
+1599910137674:write-message all Bonjour à tous
+1599910164300:write-message all "Bonjour à tous"
+1599911029648:write-message-chat 8 "No soy del grupo 8"
